@@ -1,4 +1,4 @@
-# MNIST-RandomForest-Classificatio
+# MNIST-RandomForest-Classification
 
 This project utilizes the MNIST dataset to build and evaluate an image classification model using RandomForestClassifier. The goal is to preprocess the image data, train the model, tune hyperparameters, and assess performance based on multiple metrics.
 
